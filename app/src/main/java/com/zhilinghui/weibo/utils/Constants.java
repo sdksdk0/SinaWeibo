@@ -6,8 +6,9 @@ package com.zhilinghui.weibo.utils;
  *
  */
 public class Constants {
-	public static final String APP_KEY = "2806126451";
-	public static final String App_SECRET = "839c5c22f1773e34677f24818124882d";
+public static final String APP_KEY = "换成你的appkey";
+	public static final String App_SECRET = "换成你的app_secret";
+
 
 	/**
 	 * 当前 DEMO 应用的回调页，第三方应用可以使用自己的回调页。
